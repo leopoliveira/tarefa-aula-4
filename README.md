@@ -2,7 +2,7 @@
 
 Experimentos de predição de diabetes integrados com o MLflow para rastreamento de experimentos, registro de métricas e salvamento de modelos.
 
-## 🚀 Como Executar
+## Como Executar
 
 Este projeto utiliza o [uv](https://github.com/astral-sh/uv) para gerenciamento rápido e eficiente de dependências.
 
